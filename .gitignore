@@ -5,7 +5,7 @@
 !*.*
 
 # Unignore all dirs
-!*/
+# !*/
 
 CMakeLists.txt.user
 CMakeLists_modified.txt
